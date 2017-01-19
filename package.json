@@ -6,9 +6,11 @@
   "dependencies": {
     "convnetjs": "^0.3.0",
     "mnist": "^1.0.5",
+    "synaptic": "^1.0.8",
     "typescript": "^2.1.5"
   },
   "devDependencies": {
+    "@types/synaptic": "^1.0.0",
     "nodemon": "^1.11.0"
   },
   "scripts": {
